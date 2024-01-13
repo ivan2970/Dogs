@@ -47,6 +47,7 @@ window = Tk()
 window.title("Картинки с собачками")
 window.geometry("360x420")
 
+print(5)
 label = ttk.Label()
 label.pack(pady=10)
 
